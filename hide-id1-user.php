@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Hide and Restrict User srcn (ID 1)
+ * Plugin Name: Hide and Restrict User ID 1
  * Plugin URI: https://sedeus.com
  * Description: ID'si 1 olan kullanıcıyı tamamen gizler ve düzenlenmesini engeller.
  * Version: 1.4
