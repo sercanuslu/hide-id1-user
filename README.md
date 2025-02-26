@@ -49,7 +49,7 @@ Bu eklenti **uluslararasılaştırma (i18n)** için hazırdır. POT dosyasını 
 ## Kurulum
 1. Eklentiyi **WordPress eklenti dizinine** yükleyin.
 2. WordPress yönetim panelinden **Eklentiler > Yüklü Eklentiler** bölümüne gidin.
-3. **Hide User SRCN** eklentisini etkinleştirin.
+3. **Hide and Restrict User ID 1** eklentisini etkinleştirin.
 4. Eklenti otomatik olarak çalışacaktır. Herhangi bir ek ayara gerek yoktur.
 
 ## Lisans
